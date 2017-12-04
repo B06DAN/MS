@@ -7,7 +7,7 @@ public class CEvaluator {
 	CEvaluator(IGenerator g){
 		generator = g;
 	}
-	
+	// commit
 	
 	float Evaluare() {
 		float x, y, counter=0;
